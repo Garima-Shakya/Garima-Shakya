@@ -4,107 +4,78 @@
 
 # Hi, I'm Garima Shakya 👋
 
-## Aspiring Data Analyst | Healthcare Analytics | Business Intelligence
+### Healthcare Data Analyst | MBA in Healthcare & Hospital Management | B.Sc. Medical Laboratory Technology
 
-I am an MBA graduate specializing in **Healthcare & Hospital Management** with a Bachelor's degree in **Medical Laboratory Technology**. I am passionate about transforming raw data into meaningful business insights through analytics, visualization, and problem-solving.
-
-My goal is to build data-driven solutions that support better decision-making across healthcare and other industries.
+I am an aspiring **Data Analyst** with a strong healthcare background, passionate about transforming raw data into meaningful business insights. My projects focus on solving real-world healthcare and business problems using Excel, SQL, Python, and Power BI.
 
 ---
 
 ## About Me
 
-- 🎓 MBA in Healthcare & Hospital Management
-- 🧪 B.Sc. Medical Laboratory Technology
-- 📊 Aspiring Data Analyst
-- 🏥 Strong healthcare domain knowledge
-- 💡 Interested in Business Intelligence and Data Visualization
+- MBA in Healthcare & Hospital Management
+- B.Sc. in Medical Laboratory Technology
+- Strong understanding of hospital operations and healthcare workflows
+- Passionate about Business Intelligence, Data Analytics, and Dashboard Development
+- Currently building an end-to-end Data Analytics Portfolio
 
 ---
 
-## Technical Skills
-
-### Programming
-
-- Python
-- SQL
+## Tech Stack
 
 ### Data Analysis
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-- Pandas
-- NumPy
-- Microsoft Excel
-- Power Query
-- Power Pivot
-
-### Visualization
-
-- Power BI
-- Pivot Charts
-- Dashboard Design
+### Data Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### Database
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- SQL
-- Relational Data Modeling
-
-### Other Skills
-
-- Data Cleaning
-- ETL
-- Business Analytics
-- Healthcare Analytics
-- KPI Development
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Hospital HMIS Analysis (Excel)
-
-End-to-end healthcare analytics project including:
-
-- Power Query
-- Data Modeling
-- Power Pivot
-- Executive Reports
-- Interactive Dashboard
-
----
-
-### Data Cleaning with Python
-
-Practical data cleaning projects using:
-
-- Pandas
-- NumPy
-- Feature Engineering
-- Data Validation
-
----
+### Hospital HMIS Analysis
+Healthcare analytics project using Excel, Power Pivot, Power Query, and interactive dashboards to analyze revenue, admissions, departments, insurance providers, payment modes, and patient demographics.
 
 ### SQL Analytics Portfolio
+Business-focused SQL projects solving real-world analytical problems using joins, aggregations, KPI calculations, and dashboard-ready datasets.
 
-Business-oriented SQL projects involving:
-
-- Complex Queries
-- Joins
-- Aggregations
-- KPI Calculations
-- Power BI Dashboards
+### Data Cleaning with Python
+Practical data cleaning projects using Pandas, covering missing values, data validation, feature engineering, and preprocessing workflows.
 
 ---
 
 ## Currently Learning
 
 - Advanced SQL
-- Python for Data Analytics
+- Statistics for Data Analytics
 - Power BI
-- Data Visualization
-- Statistics
 - Machine Learning Fundamentals
 
 ---
+
+## GitHub Statistics
+
+![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garima-Shakya&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-Shakya&layout=compact&theme=default)
+
+---
+
+## Career Objective
+
+Seeking opportunities as a **Data Analyst** where I can combine healthcare domain expertise with analytical skills to build impactful, data-driven solutions.
+
 
 ## Connect with Me
 
@@ -112,5 +83,7 @@ Business-oriented SQL projects involving:
 - Email: *02garimashakya09@gmail.com*
 
 ---
+
+⭐ Thank you for visiting my profile!
 
 *"Turning raw data into meaningful insights, one project at a time."*
