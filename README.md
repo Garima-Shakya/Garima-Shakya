@@ -108,8 +108,8 @@ Business-oriented SQL projects involving:
 
 ## Connect with Me
 
-- LinkedIn: *(Add your profile link)*
-- Email: *(Add your email)*
+- LinkedIn: *www.linkedin.com/in/garimashakya9*
+- Email: *02garimashakya09@gmail.com*
 
 ---
 
