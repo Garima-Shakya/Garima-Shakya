@@ -86,4 +86,4 @@ Seeking opportunities as a **Data Analyst** where I can combine healthcare domai
 
 ⭐ Thank you for visiting my profile!
 
-*"Turning raw data into meaningful insights, one project at a time."*
+
